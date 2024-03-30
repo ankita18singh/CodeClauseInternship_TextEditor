@@ -1,0 +1,1 @@
+Hi this is the  Basic text editor using python and Tkinter for GUI
